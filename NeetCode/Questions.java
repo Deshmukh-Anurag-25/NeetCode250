@@ -4,19 +4,19 @@ public class Questions {
 // Arrays & Hashing (9 problems)
 //*1. Contains Duplicate
 //*2. Valid Anagram
-//*3. Two Sum
-//?4. Group Anagrams
-//?5. Top K Frequent Elements
-//*6. Product of Array Except Self
+//3. Two Sum
+//4. Group Anagrams
+//5. Top K Frequent Elements
+//6. Product of Array Except Self
 //7. Valid Sudoku
 //8. Encode and Decode Strings
 //9. Longest Consecutive Sequence
 
 // Two Pointers (5 problems)
 //1. Valid Palindrome
-//*2. Two Sum II
+//2. Two Sum II
 //3. 3Sum
-//*4. Container with Most Water
+//4. Container with Most Water
 //5. Trapping Rain Water
 
 // Sliding Window (6 problems)
@@ -59,14 +59,14 @@ public class Questions {
 //11. Reverse Nodes in k-Group
 
 // Trees (15 problems)
-//?1. Invert Binary Tree
+//1. Invert Binary Tree
 //2. Maximum Depth of Binary Tree
 //3. Diameter of Binary Tree
 //4. Balanced Binary Tree
 //5. Same Tree
 //6. Subtree of Another Tree
 //7. Lowest Common Ancestor of a BST
-//?8. Binary Tree Level Order Traversal
+//8. Binary Tree Level Order Traversal
 //9. Binary Tree Right Side View
 //10. Count Good Nodes in Binary Tree
 //11. Validate Binary Search Tree
