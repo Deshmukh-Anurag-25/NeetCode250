@@ -6,7 +6,6 @@ import java.util.List;
 public class GroupAnagram {
     private List<List<String>> groupAnagram(String[] strs){
         if(strs.length == 0) return new ArrayList<>();
-        List<List<String>> result = new ArrayList<>();
         HashMap<String, List> map = new HashMap<>();
         int[] count = new int[26];
 
