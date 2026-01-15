@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 *.txt
+Questions.java
 
 ### Eclipse ###
 .apt_generated
